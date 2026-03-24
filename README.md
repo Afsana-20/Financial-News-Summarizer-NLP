@@ -123,8 +123,7 @@ Financial-News-Summarizer/
 │
 ├── Financial_News_Summarizer.ipynb   ← Main Colab notebook
 ├── README.md                         ← Project documentation
-├── requirements.txt                  ← Dependencies
-├── financial_news.pdf                ← Sample article for testing
+├── requirements_fns.txt                  ← Dependencies
 ├── demo.png                          ← Gradio UI screenshot
 ├── output_extractive.png             ← Extractive output screenshot
 └── output_abstractive.png            ← Abstractive output screenshot
